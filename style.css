@@ -1,7 +1,7 @@
 body {
   background-blend-mode: overlay;
   background-color: rgba(0, 0, 0, 0.66);
-  background-image: url(Images/Cafe.jpg);
+  background-image: url(Cafe.jpg);
   background-size: cover;
   height: 100vh;
   margin: 0;
